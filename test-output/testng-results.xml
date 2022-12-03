@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36817" started-at="2022-11-08T13:34:15 IST" finished-at="2022-11-08T13:34:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36817" started-at="2022-11-08T13:34:15 IST" finished-at="2022-11-08T13:34:52 IST">
+      <class name="testclases.Testloginpage">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testclases.Testloginpage@64729b1e]" name="beforemethod" is-config="true" duration-ms="15980" started-at="2022-11-08T13:34:15 IST" finished-at="2022-11-08T13:34:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Invalidcredentials()[pri:0, instance:testclases.Testloginpage@64729b1e]" name="Invalidcredentials" duration-ms="5787" started-at="2022-11-08T13:34:31 IST" finished-at="2022-11-08T13:34:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalidcredentials -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testclases.Testloginpage@64729b1e]" name="Aftermethod" is-config="true" duration-ms="778" started-at="2022-11-08T13:34:37 IST" finished-at="2022-11-08T13:34:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testclases.Testloginpage@64729b1e]" name="beforemethod" is-config="true" duration-ms="7800" started-at="2022-11-08T13:34:38 IST" finished-at="2022-11-08T13:34:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:testclases.Testloginpage@64729b1e]" name="LoginTest" duration-ms="5735" started-at="2022-11-08T13:34:45 IST" finished-at="2022-11-08T13:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testclases.Testloginpage@64729b1e]" name="Aftermethod" is-config="true" duration-ms="692" started-at="2022-11-08T13:34:51 IST" finished-at="2022-11-08T13:34:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+      </class> <!-- testclases.Testloginpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
